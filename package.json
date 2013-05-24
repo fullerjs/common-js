@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:velocityzen/fuller.git"
+		"url": "git@github.com:fullerjs/fuller-common-js.git"
 	},
 	"main": "./index"
 }
