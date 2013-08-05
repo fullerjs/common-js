@@ -1,5 +1,7 @@
 # Fuller #
-## Build everything with right tool##
+**Build everything with right tool**
+
+[For more info about go there](https://github.com/fullerjs/fuller)
 
 ## CommonJS tool for Mr. Fuller's js tool ##
 
@@ -12,9 +14,9 @@ Tiny and deadly simple commonJS (nodejs like) module realization. It consists fr
 
     }
     exports('b', b);
-``` 
+```
 
-Fuller will wrap all, app and each module, in closures. So your modules will be availible only for your app. If you need to make your module global (to be avalible outside your app), just use 
+Fuller will wrap all, app and each module, in closures. So your modules will be availible only for your app. If you need to make your module global (to be avalible outside your app), just use
 ```js
     exports('b', b, true);
 ```
