@@ -1,8 +1,8 @@
 {
 	"name": "fuller-common-js",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license" : "BSD",
-	"description": "Fuller plugin: tiny and deadly simple commonJS (nodejs like) module realization.",
+	"description": "Fuller tool: tiny and deadly simple commonJS (nodejs like) module realization.",
 	"keywords": ["js", "fuller", "commonJS", "automation"],
 	"author": "Alexey Novikov (http://2dubs.com)",
 	"preferGlobal": true,
