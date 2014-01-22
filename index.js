@@ -5,7 +5,7 @@ var path = require('path');
 var Stream = require('./stream');
 
 var CommonJS = function(fuller, plan) {
-	this.options = plan ? plan.stream || {} : {};
+	this.options = plan.defaults.stream || {};
 };
 
 CommonJS.prototype.getStream = function() {
