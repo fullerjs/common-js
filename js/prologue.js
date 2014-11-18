@@ -1,5 +1,5 @@
+"use strict";
 ;(function(window, document, undefined) {
-	"use strict";
 	var modules = {},
 
 		require = function(name) {
