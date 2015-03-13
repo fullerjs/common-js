@@ -1,9 +1,6 @@
-# Fuller #
+# Common-js like module for browser tool for Fuller #
 **Build everything with right tool**
-
-[For more info about go there](https://github.com/fullerjs/fuller)
-
-## CommonJS tool for Mr. Fuller's js tool ##
+[For more info about fuller](https://github.com/fullerjs/fuller)
 
 ### CommonJS ###
 Tiny and deadly simple commonJS (nodejs like) module realization. It consists from just two functions _require_ and _exports_. You can write your client js like usual nodejs module.
@@ -20,3 +17,9 @@ Fuller will wrap all, app and each module, in closures. So your modules will be 
 ```js
     exports('b', b, true);
 ```
+
+## Options
+* **prologue** – string will be inserted at the begining of the stream",
+* **epilogue** — string will be inserted at the end of the stream",
+* **itemPrologue** — string will be inserted before every item in the stream",
+* **itemEpilogue** — string will be inserted after every item in the stream"

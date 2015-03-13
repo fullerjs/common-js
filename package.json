@@ -8,7 +8,11 @@
 	"preferGlobal": true,
 	"private": false,
 	"engines": {
-		"node": "~0.10.0"
+		"node": "^0.12.0",
+		"iojs": "^1.0.0"
+	},
+	"dependencies": {
+		"wrapper-stream": "~0.1.0"
 	},
 	"repository": {
 		"type": "git",
