@@ -1,4 +1,4 @@
-# Common-js like module for browser tool for Fuller #
+# Common-js like modules for browser tool for Fuller #
 **Build everything with right tool**
 
 [For more info about fuller](https://github.com/fullerjs/fuller)
