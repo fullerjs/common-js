@@ -12,7 +12,7 @@
 		"iojs": "^1.0.0"
 	},
 	"dependencies": {
-		"wrapper-stream": "~0.1.0"
+		"fuller-material-file": "~0.3.0"
 	},
 	"repository": {
 		"type": "git",
