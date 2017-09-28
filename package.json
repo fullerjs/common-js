@@ -1,6 +1,6 @@
 {
   "name": "fuller-common-js",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "license": "BSD",
   "description": "Fuller tool: tiny and deadly simple commonJS (nodejs like) module realization.",
   "keywords": [
